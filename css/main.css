@@ -1,0 +1,25 @@
+@charset "utf-8";
+.img1 img{
+	height: auto;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.img2 img {
+	height: auto;
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	float: none;
+	vertical-align: middle;
+	display: block;
+}
+#home div h3 {
+	text-align: center;
+}
+#home div p {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+}
